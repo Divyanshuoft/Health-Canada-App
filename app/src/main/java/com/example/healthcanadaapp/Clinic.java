@@ -2,6 +2,7 @@ package com.example.healthcanadaapp;
 
 import java.util.List;
 
+// new
 public class Clinic {
     String clinicname;
     String location;
